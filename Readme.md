@@ -14,7 +14,7 @@
 
 # Connect
 
-<a href="https://github.com/udabindal2312" target="_blank">
+<a href="https://github.com/udaybindal2312" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> &nbsp;
 <a href="https://www.youtube.com/channel/UCzJIqosESxyiif5nmLPtClg" target="_blank">
