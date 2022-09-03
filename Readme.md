@@ -5,10 +5,7 @@
 # Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=udaybindal2312&show_icons=true&theme=blue-green&locale=en" alt="udaybindal2312" />
-<br><br>
-
-<img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=udaybindal2312&theme=blue-green" alt="udaybindal2312" />&nbsp;
-
+<br>
 <img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=udaybindal2312&show_icons=truee&theme=blue-green&locale=en&layout=compact" alt="udaybindal2312" />
 
 
@@ -32,4 +29,4 @@
 
 # Support
 
-<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abc" /></a></p><br><br>
+# <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abc" /></a></p><br><br>
